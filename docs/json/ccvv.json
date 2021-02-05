@@ -176,8 +176,8 @@
                 },
                 {
                     "titulo":"Currículum",
-                    "linkRepositorio":"https://github.com/JacobLomas/Post-it",
-                    "linkProduccion":"https://jacoblomas.github.io/Post-It/",
+                    "linkRepositorio":"https://github.com/JacobLomas/VueBootstrap-portfolio",
+                    "linkProduccion":"https://jacoblomas.github.io/VueBootstrap-portfolio/docs/",
                     "imagen":"./imagenes/proyectos/ccvv.png",
                     "explicacion":"Este proyecto consiste en hacer una plantilla de currículum en la que solamente cambiando los datos de un archivo JSON se pueda actualizar facilmente. Con este proyecto he conseguido familiarizarme con el framework Vue.cli",
                     "tecnologias":"Vue.cli, JavaScript, CSS3, HTML5, Bootstrap"
@@ -366,8 +366,8 @@
                 },
                 {
                     "titulo":"Curriculum vitae",
-                    "linkRepositorio":"https://github.com/JacobLomas/Post-it",
-                    "linkProduccion":"https://jacoblomas.github.io/Post-It/",
+                    "linkRepositorio":"https://github.com/JacobLomas/VueBootstrap-portfolio",
+                    "linkProduccion":"https://jacoblomas.github.io/VueBootstrap-portfolio/docs/",
                     "imagen":"./imagenes/proyectos/ccvv.png",
                     "explicacion":"This project consists of making a resume template in which only changing the data in a JSON file can be updated easily. With this project I have become familiar with the Vue.cli framework",
                     "tecnologias":"Vue.cli, JavaScript, CSS3, HTML5, Bootstrap"
