@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Chewy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Eczar&display=swap');
+:root{
+    --primaryColor:orange;
+    --secondaryColor: rgb(93, 93, 93);
+}
+body{
+    font-family: 'Eczar', serif;
+    font-size: 1.2rem;
+}
+
+h1{
+    font-family: 'Chewy', cursive;
+    font-size: 3rem;
+    letter-spacing: 3px;
+}
+.sobre-mi h1 span:last-child{
+    color: var(--primaryColor);
+}
+a{
+    color: var(--primaryColor) !important;
+}
+
+.dropdown-menu{
+    width: 100% !important;
+    text-align: center;
+  }
+.active{
+    background-color: var(--primaryColor) !important;
+    color: white !important;
+}
+.loader{
+    position: absolute;
+    top: 1px;
+    z-index: 1021;
+    width: 90vw;
+    height: 100vh;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 0.418);
+
+  }
+  .loader-img{
+      width: 10%;
+  }
+  .bg-primary{
+      background-color: rgba(255, 166, 0, 0.76) !important;
+      font-weight: bold;
+  }
+  .btn-primary{
+    background-color: #343a40 !important;
+    color: var(--primaryColor) !important;
+    font-weight: bold;
+    border-color: #a9771b;
+  }
+  .btn-primary:hover{
+      background-color: #a9771b !important;
+      color: white !important;
+  }
+  .btn-primary:focus{
+    box-shadow: 0 0 0 0.2rem orange !important;
+  }
+  .show > .nav-link, .dropdown-item:active{
+      background-color: var(--primaryColor) !important;
+      color: white !important;
+  }
+  .bounce-enter-active {
+    animation: bounce-in 2s;
+    -webkit-animation: bounce-in 2s;
+}
+  .bounce-leave-active {
+    opacity: 0;
+  }
+  @keyframes bounce-in {
+    0% {
+      transform: scale(0);
+    }
+    50% {
+      transform: scale(1.5);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
