@@ -1,5 +1,5 @@
 {
-    "foto":"./imagenes/foto.jpg",
+    "foto":"/imagenes/foto.jpg",
     "idiomas":{
         "0":{
             "text":"Español"
@@ -43,12 +43,12 @@
             "telefono": "644616572",
             "redesSociales":{
                 "linkedin":{
-                    "icono":"./imagenes/linkedin.svg",
+                    "icono":"/imagenes/linkedin.svg",
                     "enlace":"https://www.linkedin.com/in/jacob-lomas-álvarez-625669152/",
                     "tool":"Linkedin"
                 },
                 "github":{
-                    "icono":"./imagenes/github.svg",
+                    "icono":"/imagenes/github.svg",
                     "enlace":"https://github.com/JacobLomas",
                     "tool":"GitHub"
                 },
@@ -58,12 +58,12 @@
                     "tool":"Facebook"
                 },
                 "instagram":{
-                    "icono":"./imagenes/instagram.svg",
+                    "icono":"/imagenes/instagram.svg",
                     "enlace":"https://www.instagram.com/",
                     "tool":"Instagram"
                 },
                 "twitter":{
-                    "icono":"./imagenes/twitter.svg",
+                    "icono":"/imagenes/twitter.svg",
                     "enlace":"https://www.twitter.com/",
                     "tool":"Twitter"
                 }
@@ -108,32 +108,32 @@
             "habs":[
                 {
                     "titulo":"Java",
-                    "logo":"./imagenes/java.svg",
+                    "logo":"/imagenes/java.svg",
                     "nivel":8
                 },
                 {
                     "titulo":"JavaScript",
-                    "logo":"./imagenes/js.svg",
+                    "logo":"/imagenes/js.svg",
                     "nivel":10
                 },
                 {
                     "titulo":"Vue",
-                    "logo":"./imagenes/vuejs.svg",
+                    "logo":"/imagenes/vuejs.svg",
                     "nivel":10
                 },
                 {
                     "titulo":"HTML 5",
-                    "logo":"./imagenes/html5.svg",
+                    "logo":"/imagenes/html5.svg",
                     "nivel":10
                 },
                 {
                     "titulo":"CSS3",
-                    "logo":"./imagenes/css3.svg",
+                    "logo":"/imagenes/css3.svg",
                     "nivel":10
                 },
                 {
                     "titulo":"Bootstrap",
-                    "logo":"./imagenes/bootstrap.svg",
+                    "logo":"/imagenes/bootstrap.svg",
                     "nivel":9
                 }
             ]
@@ -146,7 +146,7 @@
                     "titulo":"Landing page",
                     "linkRepositorio":"https://github.com/JacobLomas/Landing-Page",
                     "linkProduccion":"https://jacoblomas.github.io/Landing-Page/",
-                    "imagen":"./imagenes/proyectos/landingpage.png",
+                    "imagen":"/imagenes/proyectos/landingpage.png",
                     "explicacion":"Este proyecto consiste en crear una landing page con jquery y maquetarlo con css3 flexbox. Tambien se trabajan las peticiones AJAX con archivos JSON",
                     "tecnologias":"JavaScript, JQuery, CSS3 y HTML5"
                 },
@@ -154,7 +154,7 @@
                     "titulo":"Tetris",
                     "linkRepositorio":"https://github.com/JacobLomas/Tetris",
                     "linkProduccion":"https://jacoblomas.github.io/Tetris/",
-                    "imagen":"./imagenes/proyectos/tetris.png",
+                    "imagen":"/imagenes/proyectos/tetris.png",
                     "explicacion":"Este proyecto consiste en crear el juego del Tetris con las etiquetas SVG. De esta manera practiqué la interacción con los objetos DOM de JavaScript",
                     "tecnologias":"JavaScript, SVG y HTML5"
                 },
@@ -162,7 +162,7 @@
                     "titulo":"NBAPlayers-API",
                     "linkRepositorio":"https://github.com/JacobLomas/NBA-AJAX",
                     "linkProduccion":"https://jacoblomas.github.io/NBA-AJAX/",
-                    "imagen":"./imagenes/proyectos/nba-api.png",
+                    "imagen":"/imagenes/proyectos/nba-api.png",
                     "explicacion":"Este proyecto consiste en hacer una aplicación que se base en una API. Practiqué las peticiones AJAX ya que recibía los datos en formato JSON y me encargaba de maquetarlos",
                     "tecnologias":"JavaScript, Jquery, CSS3, HTML5 y Bootstrap"
                 },
@@ -170,7 +170,7 @@
                     "titulo":"Notas",
                     "linkRepositorio":"https://github.com/JacobLomas/Post-it",
                     "linkProduccion":"https://jacoblomas.github.io/Post-It/",
-                    "imagen":"./imagenes/proyectos/notas.png",
+                    "imagen":"/imagenes/proyectos/notas.png",
                     "explicacion":"Este proyecto consiste en hacer una aplicación para administrar notas personales o listas de cosas por hacer. Con éste proyecto practiqué el acceso a localStorage y el patrón MVC (Modelo Vista Controlador)",
                     "tecnologias":"JavaScript, CSS3 y HTML5"
                 },
@@ -178,7 +178,7 @@
                     "titulo":"Currículum",
                     "linkRepositorio":"https://github.com/JacobLomas/Post-it",
                     "linkProduccion":"https://jacoblomas.github.io/Post-It/",
-                    "imagen":"./imagenes/proyectos/ccvv.png",
+                    "imagen":"/imagenes/proyectos/ccvv.png",
                     "explicacion":"Este proyecto consiste en hacer una plantilla de currículum en la que solamente cambiando los datos de un archivo JSON se pueda actualizar facilmente. Con este proyecto he conseguido familiarizarme con el framework Vue.cli",
                     "tecnologias":"Vue.cli, JavaScript, CSS3, HTML5, Bootstrap"
                 }
@@ -230,27 +230,27 @@
             "telefono": "644616572",
             "redesSociales":{
                 "linkedin":{
-                    "icono":"./imagenes/linkedin.svg",
+                    "icono":"/imagenes/linkedin.svg",
                     "enlace":"https://www.linkedin.com/in/jacob-lomas-álvarez-625669152/",
                     "tool":"Linkedin"
                 },
                 "github":{
-                    "icono":"./imagenes/github.svg",
+                    "icono":"/imagenes/github.svg",
                     "enlace":"https://github.com/JacobLomas",
                     "tool":"GitHub"
                 },
                 "facebook":{
-                    "icono":"./imagenes/facebook.svg",
+                    "icono":"/imagenes/facebook.svg",
                     "enlace":"https://es-es.facebook.com/",
                     "tool":"Facebook"
                 },
                 "instagram":{
-                    "icono":"./imagenes/instagram.svg",
+                    "icono":"/imagenes/instagram.svg",
                     "enlace":"https://www.instagram.com/",
                     "tool":"Instagram"
                 },
                 "twitter":{
-                    "icono":"./imagenes/twitter.svg",
+                    "icono":"/imagenes/twitter.svg",
                     "enlace":"https://www.twitter.com/",
                     "tool":"Twitter"
                 }
@@ -297,32 +297,32 @@
                     {
                         "section":"Skills",
                         "titulo":"Java",
-                        "logo":"./imagenes/java.svg",
+                        "logo":"/imagenes/java.svg",
                         "nivel":8
                     },
                     {
                         "titulo":"JavaScript",
-                        "logo":"./imagenes/js.svg",
+                        "logo":"/imagenes/js.svg",
                         "nivel":10
                     },
                     {
                         "titulo":"Vue",
-                        "logo":"./imagenes/vuejs.svg",
+                        "logo":"/imagenes/vuejs.svg",
                         "nivel":10
                     },
                     {
                         "titulo":"HTML 5",
-                        "logo":"./imagenes/html5.svg",
+                        "logo":"/imagenes/html5.svg",
                         "nivel":10
                     },
                     {
                         "titulo":"CSS3",
-                        "logo":"./imagenes/css3.svg",
+                        "logo":"/imagenes/css3.svg",
                         "nivel":10
                     },
                     {
                         "titulo":"Bootstrap",
-                        "logo":"./imagenes/bootstrap.svg",
+                        "logo":"/imagenes/bootstrap.svg",
                         "nivel":9
                     }
                 ]
@@ -336,7 +336,7 @@
                     "titulo":"Landing page",
                     "linkRepositorio":"https://github.com/JacobLomas/Landing-Page",
                     "linkProduccion":"https://jacoblomas.github.io/Landing-Page/",
-                    "imagen":"./imagenes/proyectos/landingpage.png",
+                    "imagen":"/imagenes/proyectos/landingpage.png",
                     "explicacion":"This project consists of creating a landing page with jquery and layout it with css3 flexbox. AJAX requests are also worked with JSON files",
                     "tecnologias":"JavaScript, JQuery, CSS3 y HTML5"
                 },
@@ -344,7 +344,7 @@
                     "titulo":"Tetris",
                     "linkRepositorio":"https://github.com/JacobLomas/Tetris",
                     "linkProduccion":"https://jacoblomas.github.io/Tetris/",
-                    "imagen":"./imagenes/proyectos/tetris.png",
+                    "imagen":"/imagenes/proyectos/tetris.png",
                     "explicacion":"This project consists of creating the Tetris game with SVG tags. I practiced the interaction with the JavaScript DOM objects",
                     "tecnologias":"JavaScript, SVG y HTML5"
                 },
@@ -352,7 +352,7 @@
                     "titulo":"NBAPlayers-API",
                     "linkRepositorio":"https://github.com/JacobLomas/NBA-AJAX",
                     "linkProduccion":"https://jacoblomas.github.io/NBA-AJAX/",
-                    "imagen":"./imagenes/proyectos/nba-api.png",
+                    "imagen":"/imagenes/proyectos/nba-api.png",
                     "explicacion":"This project consists of making an application that is based on an API. I practiced the AJAX requests since I received the data in JSON format and took care of the layout",
                     "tecnologias":"JavaScript, Jquery, CSS3, HTML5 y Bootstrap"
                 },
@@ -360,7 +360,7 @@
                     "titulo":"Notes",
                     "linkRepositorio":"https://github.com/JacobLomas/Post-it",
                     "linkProduccion":"https://jacoblomas.github.io/Post-It/",
-                    "imagen":"./imagenes/proyectos/notas.png",
+                    "imagen":"/imagenes/proyectos/notas.png",
                     "explicacion":"This project consists of making an application to manage personal notes or to-do lists. With this project I practiced accessing localStorage and the MVC pattern (Model View Controller)",
                     "tecnologias":"JavaScript, CSS3 y HTML5"
                 },
@@ -368,7 +368,7 @@
                     "titulo":"Curriculum vitae",
                     "linkRepositorio":"https://github.com/JacobLomas/Post-it",
                     "linkProduccion":"https://jacoblomas.github.io/Post-It/",
-                    "imagen":"./imagenes/proyectos/ccvv.png",
+                    "imagen":"/imagenes/proyectos/ccvv.png",
                     "explicacion":"This project consists of making a resume template in which only changing the data in a JSON file can be updated easily. With this project I have become familiar with the Vue.cli framework",
                     "tecnologias":"Vue.cli, JavaScript, CSS3, HTML5, Bootstrap"
                 }

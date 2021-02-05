@@ -45,7 +45,7 @@ export default {
     Contacto
   },
   mounted(){
-    axios.get('../public/json/ccvv.json').then((response)=>{
+    axios.get('/json/ccvv.json').then((response)=>{
       this.ccvv=response.data;
       let loader=document.getElementById('loader');
       loader.style.cssText="display:none";
